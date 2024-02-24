@@ -8,7 +8,7 @@ kadai02_janken_rich
 - タッチパネル式のPCでお試しいたけるとなおよい
  
 ③DEMO
-（任意）デプロイしている場合はURLを記入
+https://mariuratani.github.io/kadai02_janken_rich/
 
 ④工夫した点・こだわった点
 - お子様の目がチカチカしないように配慮しつつ、視認性の高いデザインを心がけました。
